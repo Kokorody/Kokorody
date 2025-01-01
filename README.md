@@ -1,6 +1,10 @@
 # 💫 Hello there!, I'm Kms. Muhammad Rafi
 🔭 I’m a Junior Software engineer student<br>🤝 I’m looking for help with making a web-based game<br>🌱 I’m currently learning C++ while also refining my Java, python, etc knowledge<br>💬 Ask me about SE at my personal Instagram account or with my email kmsmuhammadrafi@gmail.com
 
+> "The only limit to our realization of tomorrow is our doubts of today."  
+> <span style="opacity: 0.5; font-style: italic;">— Franklin D. Roosevelt</span>
+
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmsm_rafi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28722455) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@t37B13CQ28H0ny_hOmIBtQ) 
@@ -14,5 +18,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kokorody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-> <span style="opacity: 0.5; font-style: italic;">This is a quote with italic text and 50% opacity.</span>
