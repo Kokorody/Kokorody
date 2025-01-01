@@ -15,4 +15,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kokorody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-> This is a quote with *italic text* and <span style="opacity: 0.5; font-style: italic;">italic text with 50% opacity</span>.
+> <span style="opacity: 0.5; font-style: italic;">This is a quote with italic text and 50% opacity.</span>
