@@ -1,8 +1,8 @@
 # 💫 Hello there!, I'm Kms. Muhammad Rafi
 🔭 I’m a Junior Software engineer student<br>🤝 I’m looking for help with making a web-based game<br>🌱 I’m currently learning C++ while also refining my Java, python, etc knowledge<br>💬 Ask me about SE at my personal Instagram account or with my email kmsmuhammadrafi@gmail.com
 
-> "The only limit to our realization of tomorrow is our doubts of today."  
-> <span style="opacity: 0.5; font-style: italic;">— Franklin D. Roosevelt</span>
+> "i hate Vanguard anti-cheat."  
+> <span style="opacity: 0.5; font-style: italic;">— Kemss </span>
 
 
 
