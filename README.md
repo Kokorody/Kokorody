@@ -1,7 +1,7 @@
 # Hello there!, I'm Kms. Muhammad Rafi
 🔭 I’m a Junior Fullstack Software engineer<br>🤝 I’m looking for help with making a web-based game<br>🌱 I’m currently learning C++ while also refining my Java, python, etc knowledge<br>💬 Ask me about anything at my personal Instagram account or with my email kmsmuhammadrafi@gmail.com
 
-> "i hate Vanguard anti-cheat."  
+> "Professional Riot vanguard penetrator since 2022. in other words, i hate Vanguard anti-cheat."  
 > <span style="opacity: 0.5; font-style: italic;">— Kemss </span>
 
 
