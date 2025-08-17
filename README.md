@@ -1,5 +1,5 @@
 # Hello there!, I'm Kms. Muhammad Rafi
-"Professional Riot vanguard penetrator since 2022. in other words, i hate Vanguard anti-cheat."<br>— Kemss<br><br>🌐 Social
+"Professional Riot vanguard penetrator since 2022. in other words, i hate Vanguard anti-cheat."<br>— Kemss<br><br>
 
 
 ## 🌐 Socials:
